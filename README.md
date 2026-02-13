@@ -8,7 +8,9 @@ I’m a research scientist working on **CFD + Physics-Informed Neural Networks (
 - 🌍 Open science: building public repos for reproducible multiphase modeling
 
 ## Projects
-- **P-PINNs for Two-Phase Phase Change Flows** 
+- **Advanced PINNs for Two-Phase Phase Change Flows**
+- **Intelligent Multiphysics Solver**
+- **Multi-fidelity Physcis-based CFD Models** 
 
 ## Contact
 - Email: phanhoang08x3a@gmail.com
