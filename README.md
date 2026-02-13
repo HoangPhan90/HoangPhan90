@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Hoang 👋
 
-<!--
-**HoangPhan90/HoangPhan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a research scientist working on **CFD + Physics-Informed Neural Networks (PINNs)** for **two-phase phase-change flows** (boiling/condensation), with interests in **AI-driven modeling tools** and **thermal management**.
 
-Here are some ideas to get you started:
+- 🔥 Research: CFD, PINNs, Multiphase Flows, Phase-change modeling, Thermal Management
+- 🤖 ML: PINNs / PIML for multiphase systems, inverse problems, surrogate modeling
+- 🧰 Tools: ANSYS Fluent (UDFs), Python (PyTorch), In-house CFD code (Fortran)
+- 🌍 Open science: building public repos for reproducible multiphase modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **P-PINNs for Two-Phase Phase Change Flows** 
+
+## Contact
+- Email: phanhoang08x3a@gmail.com
+- LinkedIn: https://www.linkedin.com/in/thanh-hoang-phan-04bbb7172/
+- Google Scholar: https://scholar.google.com/citations?user=ibxDyUwAAAAJ&hl=en
