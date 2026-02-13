@@ -1,6 +1,6 @@
 # Hi, I’m Hoang 👋
 
-I’m a research scientist working on **CFD + Physics-Informed Neural Networks (PINNs)** for **two-phase phase-change flows** (boiling/condensation), with interests in **AI-driven modeling tools** and **thermal management**.
+I’m a research scientist working on **CFD + Physics-Informed Neural Networks (PINNs)** for **two-phase phase-change flows** (boiling/condensation/cavitation), with interests in **AI-driven modeling tools** and **thermal management**.
 
 - 🔥 Research: CFD, PINNs, Multiphase Flows, Phase-change modeling, Thermal Management
 - 🤖 ML: PINNs / PIML for multiphase systems, inverse problems, surrogate modeling
