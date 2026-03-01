@@ -10,7 +10,7 @@ I’m a research scientist working on **CFD + Physics-Informed Neural Networks (
 ## Projects
 - **Intelligent Multi-physics Solvers**
 - **Advanced PINNs for Two-Phase Phase Change Flows**
-- **Multi-fidelity Physcis-based CFD Models**
+- **Multi-fidelity Physics-based CFD Models**
 - **TO-PINNs for Thermal Management Design**
 
 ## Contact
